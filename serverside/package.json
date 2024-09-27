@@ -1,0 +1,17 @@
+{
+  "name": "serverside",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expo-auth-session": "^5.5.2",
+    "expo-crypto": "^13.0.2",
+    "pg": "^8.13.0"
+  }
+}
